@@ -19,9 +19,16 @@ body{
 
 height: 400px;
 width: 800px;
-background-image: url("circuitos-electricos.jpg");
+background-image: url("circuitos-elect.jpg");
 background-repeat: no-repeat;
 
 
     } 
+    .fondoa{
+        height: 400px;
+width: 800px;
+background-image: url("imagen.jpg");
+background-repeat: no-repeat;
+
+    }
     
